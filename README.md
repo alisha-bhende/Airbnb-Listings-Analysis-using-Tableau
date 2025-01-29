@@ -5,3 +5,5 @@ What This Project Does:
 - Analyzes Airbnb listings based on price, location, and ratings
 - Provides interactive visualizations for easy understanding
 - Helps identify trends in rental properties
+
+Link to the dataset: https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
